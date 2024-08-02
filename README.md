@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0283-move-zeroes) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0268-missing-number) |
 ## Math
 |  |
@@ -50,9 +52,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0344-reverse-string) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
