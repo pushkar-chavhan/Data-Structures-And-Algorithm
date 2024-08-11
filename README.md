@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1580-shuffle-the-array](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1580-shuffle-the-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2876-number-of-employees-who-met-the-target) |
+| [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 ## Two Pointers
 |  |
 | ------- |
