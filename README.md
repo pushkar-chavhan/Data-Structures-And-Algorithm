@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2058-concatenation-of-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2876-number-of-employees-who-met-the-target) |
+| [3194-find-words-containing-character](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/3194-find-words-containing-character) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 ## Two Pointers
 |  |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1797-goal-parser-interpretation](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1797-goal-parser-interpretation) |
 | [2032-largest-odd-number-in-string](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2032-largest-odd-number-in-string) |
+| [3194-find-words-containing-character](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/3379-score-of-a-string) |
 ## Divide and Conquer
 |  |
