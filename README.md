@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0344-reverse-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -136,13 +137,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0234-palindrome-linked-list) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Linked List
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
