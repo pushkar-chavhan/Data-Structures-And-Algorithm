@@ -6,8 +6,15 @@ class Solution {
         for(int i=0;i<nums.length;i++){
             //if lfproduct or rtproduct is 0 update it as 1
 
-            leftproduct=(leftproduct==0) ? 1:leftproduct;
-            rightproduct = (rightproduct == 0) ? 1 : rightproduct;
+            // leftproduct=(leftproduct==0) ? 1:leftproduct;
+            // rightproduct = (rightproduct == 0) ? 1 : rightproduct;
+
+            if(leftproduct==0){
+                leftproduct=1;
+            }
+            if(rightproduct==0){
+                rightproduct=1;
+            }
             leftproduct*=nums[i];
             rightproduct*=nums[nums.length-1-i];
 
