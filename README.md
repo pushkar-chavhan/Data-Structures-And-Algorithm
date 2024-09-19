@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0342-power-of-four) |
 | [1635-number-of-good-pairs](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1635-number-of-good-pairs) |
 | [2032-largest-odd-number-in-string](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2032-largest-odd-number-in-string) |
+| [2050-count-good-numbers](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2050-count-good-numbers) |
 ## Binary Search
 |  |
 | ------- |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0342-power-of-four) |
+| [2050-count-good-numbers](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2050-count-good-numbers) |
 ## Backtracking
 |  |
 | ------- |
