@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0231-power-of-two) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0231-power-of-two) |
