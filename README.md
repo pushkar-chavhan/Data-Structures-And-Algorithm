@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0058-length-of-last-word) |
 | [0205-isomorphic-strings](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0344-reverse-string) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0234-palindrome-linked-list) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Linked List
