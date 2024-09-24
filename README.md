@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0234-palindrome-linked-list) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Linked List
@@ -229,8 +230,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0232-implement-queue-using-stacks) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
