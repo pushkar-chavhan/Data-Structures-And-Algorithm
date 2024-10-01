@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0496-next-greater-element-i) |
 | [1635-number-of-good-pairs](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1635-number-of-good-pairs) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0268-missing-number) |
 ## String
 |  |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0058-length-of-last-word) |
 | [0205-isomorphic-strings](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0344-reverse-string) |
 | [0402-remove-k-digits](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0402-remove-k-digits) |
 | [0812-rotate-string](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0812-rotate-string) |
