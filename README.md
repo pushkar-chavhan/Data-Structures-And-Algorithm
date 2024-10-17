@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1241-decompress-run-length-encoded-list](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1241-decompress-run-length-encoded-list) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1580-shuffle-the-array](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1580-shuffle-the-array) |
 | [1635-number-of-good-pairs](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1635-number-of-good-pairs) |
 | [1646-kth-missing-positive-number](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1646-kth-missing-positive-number) |
@@ -331,8 +332,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0643-maximum-average-subarray-i) |
 | [0966-binary-subarrays-with-sum](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0966-binary-subarrays-with-sum) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0966-binary-subarrays-with-sum](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0966-binary-subarrays-with-sum) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
