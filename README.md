@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0389-find-the-difference) |
 | [0402-remove-k-digits](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0424-longest-repeating-character-replacement) |
+| [0520-detect-capital](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0520-detect-capital) |
 | [0541-reverse-string-ii](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0541-reverse-string-ii) |
 | [0812-rotate-string](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0812-rotate-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0957-minimum-add-to-make-parentheses-valid) |
