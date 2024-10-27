@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0283-move-zeroes) |
+| [0414-third-maximum-number](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0503-next-greater-element-ii) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0389-find-the-difference) |
+| [0414-third-maximum-number](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0414-third-maximum-number) |
 ## String
 |  |
 | ------- |
