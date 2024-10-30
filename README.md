@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0966-binary-subarrays-with-sum) |
 | [1168-duplicate-zeros](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1168-duplicate-zeros) |
 | [1241-decompress-run-length-encoded-list](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1241-decompress-run-length-encoded-list) |
+| [1319-unique-number-of-occurrences](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1319-unique-number-of-occurrences) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0496-next-greater-element-i) |
 | [0966-binary-subarrays-with-sum](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0966-binary-subarrays-with-sum) |
+| [1319-unique-number-of-occurrences](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1319-unique-number-of-occurrences) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1635-number-of-good-pairs](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1635-number-of-good-pairs) |
 ## Math
