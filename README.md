@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0342-power-of-four) |
+| [0412-fizz-buzz](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0412-fizz-buzz) |
 | [1635-number-of-good-pairs](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1635-number-of-good-pairs) |
 | [2032-largest-odd-number-in-string](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2050-count-good-numbers) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0389-find-the-difference) |
 | [0402-remove-k-digits](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0402-remove-k-digits) |
+| [0412-fizz-buzz](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0424-longest-repeating-character-replacement) |
 | [0520-detect-capital](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0520-detect-capital) |
 | [0541-reverse-string-ii](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0541-reverse-string-ii) |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0067-add-binary) |
+| [0412-fizz-buzz](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0412-fizz-buzz) |
 | [0566-reshape-the-matrix](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0566-reshape-the-matrix) |
 | [0735-asteroid-collision](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0735-asteroid-collision) |
 | [2058-concatenation-of-array](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2058-concatenation-of-array) |
