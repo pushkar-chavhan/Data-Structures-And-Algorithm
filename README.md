@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0792-binary-search) |
 | [0966-binary-subarrays-with-sum](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0966-binary-subarrays-with-sum) |
 | [1168-duplicate-zeros](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1168-duplicate-zeros) |
+| [1217-relative-sort-array](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1217-relative-sort-array) |
 | [1241-decompress-run-length-encoded-list](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1241-decompress-run-length-encoded-list) |
 | [1319-unique-number-of-occurrences](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1319-unique-number-of-occurrences) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0496-next-greater-element-i) |
 | [0966-binary-subarrays-with-sum](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0966-binary-subarrays-with-sum) |
+| [1217-relative-sort-array](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1217-relative-sort-array) |
 | [1319-unique-number-of-occurrences](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1319-unique-number-of-occurrences) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1635-number-of-good-pairs](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1635-number-of-good-pairs) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0414-third-maximum-number) |
+| [1217-relative-sort-array](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1217-relative-sort-array) |
 ## String
 |  |
 | ------- |
@@ -403,4 +406,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0733-flood-fill](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0733-flood-fill) |
+## Counting Sort
+|  |
+| ------- |
+| [1217-relative-sort-array](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1217-relative-sort-array) |
 <!---LeetCode Topics End-->
