@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-unique-number-of-occurrences](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1319-unique-number-of-occurrences) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1635-number-of-good-pairs](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1635-number-of-good-pairs) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Math
 |  |
 | ------- |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1797-goal-parser-interpretation](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1797-goal-parser-interpretation) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2032-largest-odd-number-in-string](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2032-largest-odd-number-in-string) |
 | [3194-find-words-containing-character](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/3379-score-of-a-string) |
