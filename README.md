@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0500-keyboard-row) |
 | [0503-next-greater-element-ii](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0540-single-element-in-a-sorted-array) |
 | [0566-reshape-the-matrix](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0566-reshape-the-matrix) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0500-keyboard-row) |
 | [0966-binary-subarrays-with-sum](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0966-binary-subarrays-with-sum) |
 | [1217-relative-sort-array](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1217-relative-sort-array) |
 | [1319-unique-number-of-occurrences](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1319-unique-number-of-occurrences) |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0424-longest-repeating-character-replacement) |
 | [0459-repeated-substring-pattern](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0459-repeated-substring-pattern) |
+| [0500-keyboard-row](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0500-keyboard-row) |
 | [0520-detect-capital](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0520-detect-capital) |
 | [0541-reverse-string-ii](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0541-reverse-string-ii) |
 | [0680-valid-palindrome-ii](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0680-valid-palindrome-ii) |
