@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0735-asteroid-collision) |
 | [0792-binary-search](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0792-binary-search) |
+| [0841-shortest-distance-to-a-character](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0841-shortest-distance-to-a-character) |
 | [0890-lemonade-change](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0890-lemonade-change) |
 | [0966-binary-subarrays-with-sum](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0966-binary-subarrays-with-sum) |
 | [1168-duplicate-zeros](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1168-duplicate-zeros) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0455-assign-cookies) |
 | [0541-reverse-string-ii](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0541-reverse-string-ii) |
 | [0680-valid-palindrome-ii](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0680-valid-palindrome-ii) |
+| [0841-shortest-distance-to-a-character](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0841-shortest-distance-to-a-character) |
 | [0908-middle-of-the-linked-list](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0908-middle-of-the-linked-list) |
 | [1168-duplicate-zeros](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1168-duplicate-zeros) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0680-valid-palindrome-ii) |
 | [0742-to-lower-case](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0742-to-lower-case) |
 | [0812-rotate-string](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0812-rotate-string) |
+| [0841-shortest-distance-to-a-character](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0841-shortest-distance-to-a-character) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1078-remove-outermost-parentheses) |
 | [1205-defanging-an-ip-address](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1205-defanging-an-ip-address) |
