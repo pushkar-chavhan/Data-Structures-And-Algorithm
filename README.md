@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1241-decompress-run-length-encoded-list](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1241-decompress-run-length-encoded-list) |
 | [1319-unique-number-of-occurrences](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1319-unique-number-of-occurrences) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1524-string-matching-in-an-array](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1524-string-matching-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1580-shuffle-the-array](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1580-shuffle-the-array) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1205-defanging-an-ip-address](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1205-defanging-an-ip-address) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1508-longest-happy-prefix](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1508-longest-happy-prefix) |
+| [1524-string-matching-in-an-array](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1524-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1660-thousand-separator](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1660-thousand-separator) |
 | [1714-rearrange-spaces-between-words](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1714-rearrange-spaces-between-words) |
@@ -346,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0459-repeated-substring-pattern](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0459-repeated-substring-pattern) |
 | [0812-rotate-string](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0812-rotate-string) |
 | [1508-longest-happy-prefix](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1508-longest-happy-prefix) |
+| [1524-string-matching-in-an-array](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1524-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 ## Matrix
 |  |
