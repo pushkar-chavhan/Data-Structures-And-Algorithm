@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0837-most-common-word](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0837-most-common-word) |
 | [0841-shortest-distance-to-a-character](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0841-shortest-distance-to-a-character) |
 | [0890-lemonade-change](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0890-lemonade-change) |
+| [0965-unique-email-addresses](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0965-unique-email-addresses) |
 | [0966-binary-subarrays-with-sum](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0966-binary-subarrays-with-sum) |
 | [1044-find-common-characters](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1044-find-common-characters) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1112-find-words-that-can-be-formed-by-characters) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0500-keyboard-row) |
 | [0645-set-mismatch](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0645-set-mismatch) |
 | [0837-most-common-word](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0837-most-common-word) |
+| [0965-unique-email-addresses](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0965-unique-email-addresses) |
 | [0966-binary-subarrays-with-sum](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0966-binary-subarrays-with-sum) |
 | [1044-find-common-characters](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1044-find-common-characters) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1112-find-words-that-can-be-formed-by-characters) |
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0857-positions-of-large-groups](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0857-positions-of-large-groups) |
 | [0953-reverse-only-letters](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0953-reverse-only-letters) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [0965-unique-email-addresses](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0965-unique-email-addresses) |
 | [1044-find-common-characters](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1044-find-common-characters) |
 | [1078-remove-outermost-parentheses](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1078-remove-outermost-parentheses) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1112-find-words-that-can-be-formed-by-characters) |
