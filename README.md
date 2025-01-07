@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0682-baseball-game) |
+| [0697-degree-of-an-array](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0697-degree-of-an-array) |
 | [0733-flood-fill](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0735-asteroid-collision) |
 | [0792-binary-search](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0792-binary-search) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0500-keyboard-row) |
 | [0645-set-mismatch](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0645-set-mismatch) |
+| [0697-degree-of-an-array](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0697-degree-of-an-array) |
 | [0837-most-common-word](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0837-most-common-word) |
 | [0965-unique-email-addresses](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0965-unique-email-addresses) |
 | [0966-binary-subarrays-with-sum](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0966-binary-subarrays-with-sum) |
