@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1635-number-of-good-pairs](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1635-number-of-good-pairs) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2427-first-letter-to-appear-twice](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2427-first-letter-to-appear-twice) |
 ## Math
 |  |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2128-reverse-prefix-of-word](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2128-reverse-prefix-of-word) |
+| [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2427-first-letter-to-appear-twice](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2427-first-letter-to-appear-twice) |
 | [3194-find-words-containing-character](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/3379-score-of-a-string) |
@@ -335,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1635-number-of-good-pairs](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1635-number-of-good-pairs) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1823-determine-if-string-halves-are-alike) |
+| [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2427-first-letter-to-appear-twice](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2427-first-letter-to-appear-twice) |
 ## Dynamic Programming
 |  |
