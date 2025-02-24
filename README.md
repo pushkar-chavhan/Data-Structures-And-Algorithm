@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0697-degree-of-an-array](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0697-degree-of-an-array) |
 | [0733-flood-fill](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0735-asteroid-collision) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0792-binary-search) |
 | [0837-most-common-word](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0837-most-common-word) |
 | [0841-shortest-distance-to-a-character](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0841-shortest-distance-to-a-character) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0540-single-element-in-a-sorted-array) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0792-binary-search) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1646-kth-missing-positive-number](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1646-kth-missing-positive-number) |
