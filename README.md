@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2190-count-common-words-with-one-occurrence) |
+| [2211-k-radius-subarray-averages](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2211-k-radius-subarray-averages) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2308-divide-array-into-equal-pairs](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2308-divide-array-into-equal-pairs) |
 | [2714-left-and-right-sum-differences](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2714-left-and-right-sum-differences) |
@@ -556,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0966-binary-subarrays-with-sum) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [2211-k-radius-subarray-averages](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2211-k-radius-subarray-averages) |
 ## Prefix Sum
 |  |
 | ------- |
