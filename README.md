@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0837-most-common-word](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0837-most-common-word) |
 | [0841-shortest-distance-to-a-character](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0841-shortest-distance-to-a-character) |
 | [0890-lemonade-change](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0890-lemonade-change) |
+| [0932-monotonic-array](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0932-monotonic-array) |
 | [0965-unique-email-addresses](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0965-unique-email-addresses) |
 | [0966-binary-subarrays-with-sum](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0966-binary-subarrays-with-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0967-minimum-falling-path-sum) |
