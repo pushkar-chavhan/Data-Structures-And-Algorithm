@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0287-find-the-duplicate-number) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0219-contains-duplicate-ii) |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0326-power-of-three) |
