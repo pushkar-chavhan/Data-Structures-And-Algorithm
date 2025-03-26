@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0090-subsets-ii) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0119-pascals-triangle-ii](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -388,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0053-maximum-subarray) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0240-search-a-2d-matrix-ii) |
@@ -621,4 +623,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0062-unique-paths) |
+## Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
