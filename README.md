@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0414-third-maximum-number) |
+| [0416-partition-equal-subset-sum](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0485-max-consecutive-ones) |
@@ -435,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0392-is-subsequence) |
+| [0416-partition-equal-subset-sum](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0435-non-overlapping-intervals) |
 | [0647-palindromic-substrings](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0647-palindromic-substrings) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0718-maximum-length-of-repeated-subarray) |
