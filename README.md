@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1933-number-of-different-integers-in-a-string](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1933-number-of-different-integers-in-a-string) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2308-divide-array-into-equal-pairs](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2308-divide-array-into-equal-pairs) |
@@ -381,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1970-sorting-the-sentence](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1970-sorting-the-sentence) |
 | [2010-check-if-word-equals-summation-of-two-words](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2010-check-if-word-equals-summation-of-two-words) |
 | [2032-largest-odd-number-in-string](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2032-largest-odd-number-in-string) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
@@ -415,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1635-number-of-good-pairs) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2308-divide-array-into-equal-pairs](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2308-divide-array-into-equal-pairs) |
