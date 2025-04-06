@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0322-coin-change) |
 | [0349-intersection-of-two-arrays](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0540-single-element-in-a-sorted-array) |
@@ -445,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0213-house-robber-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0416-partition-equal-subset-sum) |
