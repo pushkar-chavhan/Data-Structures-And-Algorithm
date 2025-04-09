@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3194-find-words-containing-character](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/3194-find-words-containing-character) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3430-count-days-without-meetings](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/3430-count-days-without-meetings) |
+| [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2308-divide-array-into-equal-pairs](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2308-divide-array-into-equal-pairs) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2427-first-letter-to-appear-twice](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2427-first-letter-to-appear-twice) |
+| [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 ## Math
 |  |
 | ------- |
