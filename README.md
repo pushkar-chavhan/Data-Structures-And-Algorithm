@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2190-count-common-words-with-one-occurrence](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2211-k-radius-subarray-averages](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2211-k-radius-subarray-averages) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2308-divide-array-into-equal-pairs](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2308-divide-array-into-equal-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
@@ -405,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2235-capitalize-the-title](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2235-capitalize-the-title) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2427-first-letter-to-appear-twice](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2427-first-letter-to-appear-twice) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
@@ -508,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1508-longest-happy-prefix](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1508-longest-happy-prefix) |
 | [1524-string-matching-in-an-array](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1524-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2292-counting-words-with-a-given-prefix) |
 ## Matrix
 |  |
 | ------- |
