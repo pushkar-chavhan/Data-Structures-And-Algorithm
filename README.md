@@ -257,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2032-largest-odd-number-in-string](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2050-count-good-numbers) |
+| [2998-count-symmetric-integers](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2998-count-symmetric-integers) |
 ## Binary Search
 |  |
 | ------- |
@@ -683,6 +684,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2998-count-symmetric-integers](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2998-count-symmetric-integers) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
