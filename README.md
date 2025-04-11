@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0424-longest-repeating-character-replacement) |
+| [0451-sort-characters-by-frequency](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0560-subarray-sum-equals-k) |
@@ -322,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0435-non-overlapping-intervals) |
+| [0451-sort-characters-by-frequency](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0455-assign-cookies) |
 | [0594-longest-harmonious-subsequence](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0621-task-scheduler) |
@@ -363,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0424-longest-repeating-character-replacement) |
 | [0434-number-of-segments-in-a-string](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0434-number-of-segments-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0451-sort-characters-by-frequency) |
 | [0459-repeated-substring-pattern](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0459-repeated-substring-pattern) |
 | [0500-keyboard-row](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0500-keyboard-row) |
 | [0520-detect-capital](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0520-detect-capital) |
@@ -433,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0387-first-unique-character-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0621-task-scheduler) |
 | [0837-most-common-word](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0837-most-common-word) |
@@ -691,10 +695,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0621-task-scheduler) |
 ## Database
 |  |
 | ------- |
 | [0584-find-customer-referee](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0584-find-customer-referee) |
 | [1908-recyclable-and-low-fat-products](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1908-recyclable-and-low-fat-products) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
