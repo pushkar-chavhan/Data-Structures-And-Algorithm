@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0966-binary-subarrays-with-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0967-minimum-falling-path-sum) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0982-minimum-increment-to-make-array-unique) |
+| [1001-n-repeated-element-in-size-2n-array](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1019-squares-of-a-sorted-array) |
 | [1044-find-common-characters](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1044-find-common-characters) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1112-find-words-that-can-be-formed-by-characters) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0837-most-common-word](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0837-most-common-word) |
 | [0965-unique-email-addresses](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0965-unique-email-addresses) |
 | [0966-binary-subarrays-with-sum](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0966-binary-subarrays-with-sum) |
+| [1001-n-repeated-element-in-size-2n-array](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1044-find-common-characters](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1044-find-common-characters) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1217-relative-sort-array](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1217-relative-sort-array) |
