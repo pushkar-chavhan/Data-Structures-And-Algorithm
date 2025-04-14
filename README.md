@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1580-shuffle-the-array](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1580-shuffle-the-array) |
 | [1635-number-of-good-pairs](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1635-number-of-good-pairs) |
 | [1646-kth-missing-positive-number](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1646-kth-missing-positive-number) |
+| [1656-count-good-triplets](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1656-count-good-triplets) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -694,6 +695,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1656-count-good-triplets](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2998-count-symmetric-integers](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2998-count-symmetric-integers) |
 ## Heap (Priority Queue)
