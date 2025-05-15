@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2699-count-the-number-of-fair-pairs](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2714-left-and-right-sum-differences](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2714-left-and-right-sum-differences) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2876-number-of-employees-who-met-the-target) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/3194-find-words-containing-character) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3430-count-days-without-meetings](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/3430-count-days-without-meetings) |
@@ -443,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2401-count-asterisks](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2401-count-asterisks) |
 | [2427-first-letter-to-appear-twice](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2427-first-letter-to-appear-twice) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/3379-score-of-a-string) |
 ## Divide and Conquer
@@ -506,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0967-minimum-falling-path-sum](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0967-minimum-falling-path-sum) |
 | [1013-fibonacci-number](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1013-fibonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1250-longest-common-subsequence) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Simulation
 |  |
 | ------- |
@@ -537,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [2032-largest-odd-number-in-string](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2032-largest-odd-number-in-string) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## String Matching
 |  |
 | ------- |
