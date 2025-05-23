@@ -443,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2186-count-vowel-substrings-of-a-string](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2235-capitalize-the-title](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2235-capitalize-the-title) |
+| [2243-check-if-all-as-appears-before-all-bs](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
