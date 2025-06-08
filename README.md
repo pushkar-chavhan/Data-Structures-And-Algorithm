@@ -676,6 +676,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0014-longest-common-prefix) |
+| [0386-lexicographical-numbers](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0386-lexicographical-numbers) |
 ## Merge Sort
 |  |
 | ------- |
@@ -715,6 +716,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0386-lexicographical-numbers](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0386-lexicographical-numbers) |
 | [0733-flood-fill](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0733-flood-fill) |
 ## Breadth-First Search
 |  |
