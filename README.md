@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2058-concatenation-of-array](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2058-concatenation-of-array) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2093-check-if-string-is-a-prefix-of-array) |
+| [2094-remove-stones-to-minimize-the-total](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2107-find-unique-binary-string](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2107-find-unique-binary-string) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -567,6 +568,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [2032-largest-odd-number-in-string](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2032-largest-odd-number-in-string) |
+| [2094-remove-stones-to-minimize-the-total](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## String Matching
 |  |
@@ -768,6 +770,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0215-kth-largest-element-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0621-task-scheduler) |
+| [2094-remove-stones-to-minimize-the-total](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2094-remove-stones-to-minimize-the-total) |
 ## Database
 |  |
 | ------- |
