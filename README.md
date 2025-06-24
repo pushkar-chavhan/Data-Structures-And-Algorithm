@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2308-divide-array-into-equal-pairs](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2308-divide-array-into-equal-pairs) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2128-reverse-prefix-of-word](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2128-reverse-prefix-of-word) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Hash Table
 |  |
