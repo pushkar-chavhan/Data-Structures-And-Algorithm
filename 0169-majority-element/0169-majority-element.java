@@ -1,20 +1,24 @@
 class Solution {
     public int majorityElement(int[] nums) {
-        int count=0;
-        int ele=0;
-        for(int i=0;i<nums.length;i++){
-            if(count==0){
-                count=1;
-                ele=nums[i];
+        // int n=nums.length;
+        // Arrays.sort(nums);
+        //     return nums[n/2];
+
+        //Morees voting algo
+        int votes=1;
+        int majority=nums[0];
+        for(int i=1;i<nums.length;i++){
+            if(votes==0){
+                votes++;
+                majority=nums[i];
             }
-            else if(nums[i]==ele){
-                count++;
+            else if(nums[i]==majority){
+                votes++;
             }
             else{
-                count--;
+                votes--;
             }
         }
-        return ele;
-
+        return majority;
     }
 }
