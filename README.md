@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3430-count-days-without-meetings](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/3430-count-days-without-meetings) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
+| [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3639-zero-array-transformation-i](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/3639-zero-array-transformation-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
@@ -556,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1250-longest-common-subsequence](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1250-longest-common-subsequence) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
+| [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 ## Simulation
 |  |
 | ------- |
