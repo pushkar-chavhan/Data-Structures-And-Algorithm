@@ -18,24 +18,40 @@ class Solution {
         // }
         // return ans.toString();
         
+        //second approach
+    StringBuilder ans=new StringBuilder();
+    int count=0;
+    for(char ch:s.toCharArray()){
+        if(ch==')'){
+            count--;
+        }
+        if(count!=0){
+            ans.append(ch);
+        }
+        if(ch=='('){
+            count++;
+        }
+    }
+    return ans.toString();
 
         //using stack
-        Stack<Character>st=new Stack<>();
-        StringBuilder ans=new StringBuilder();
-        for(char ch:s.toCharArray()){
-            if(ch=='('){
-                if(!st.isEmpty()){
-                    ans.append(ch);
-                }
-                st.push(ch);
-            }
-            else if(ch==')'){
-                st.pop();
-                if(!st.isEmpty()){
-                    ans.append(ch);
-                }
-            }   
-        }
-        return ans.toString();
-    }
+    //     Stack<Character>st=new Stack<>();
+    //     StringBuilder ans=new StringBuilder();
+    //     for(char ch:s.toCharArray()){
+    //         if(ch=='('){
+    //             if(!st.isEmpty()){
+    //                 ans.append(ch);
+    //             }
+    //             st.push(ch);
+    //         }
+    //         else if(ch==')'){
+    //             st.pop();
+    //             if(!st.isEmpty()){
+    //                 ans.append(ch);
+    //             }
+    //         }   
+    //     }
+    //     return ans.toString();
+    
+     }
 }
