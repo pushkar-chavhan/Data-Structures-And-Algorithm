@@ -408,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0168-excel-sheet-column-title) |
 | [0205-isomorphic-strings](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0205-isomorphic-strings) |
@@ -545,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0131-palindrome-partitioning](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0213-house-robber-ii) |
@@ -686,6 +688,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0131-palindrome-partitioning) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2107-find-unique-binary-string](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2107-find-unique-binary-string) |
 ## Design
