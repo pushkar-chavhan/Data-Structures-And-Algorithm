@@ -447,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1205-defanging-an-ip-address](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1205-defanging-an-ip-address) |
 | [1250-longest-common-subsequence](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1250-longest-common-subsequence) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1490-generate-a-string-with-characters-that-have-odd-counts](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1490-generate-a-string-with-characters-that-have-odd-counts) |
