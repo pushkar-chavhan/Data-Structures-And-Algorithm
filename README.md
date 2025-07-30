@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -368,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2308-divide-array-into-equal-pairs](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2308-divide-array-into-equal-pairs) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2427-first-letter-to-appear-twice](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2427-first-letter-to-appear-twice) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Sorting
 |  |
 | ------- |
@@ -845,4 +847,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0239-sliding-window-maximum) |
+## Brainteaser
+|  |
+| ------- |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 <!---LeetCode Topics End-->
