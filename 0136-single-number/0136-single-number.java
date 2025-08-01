@@ -1,29 +1,20 @@
 class Solution {
     public int singleNumber(int[] nums) {
-        //using bit manupulation
-    //   int a=0;
-    //   for(int i=0;i<nums.length;i++){
-    //     a=a^nums[i];
-    //   }
-    //   return a;
+        // HashMap<Integer,Integer>mp=new  HashMap<>();
+        // for(int num:nums){
+        //     mp.put(num,mp.getOrDefault(num,0)+1);
+        // }
+        // for(Map.Entry<Integer,Integer>entry:mp.entrySet()){
+        //     if(entry.getValue()==1){
+        //         return entry.getKey();
+        //     }
+        // }
+        // return -1;
 
-    //using set
-    Set<Integer>set=new HashSet<>();
-    int i=0;
-    int n=nums.length;
-    int ans=0;
-    while(i<n){
-        if(!set.contains(nums[i])){
-            set.add(nums[i]);
+        int a=0;
+        for(int i=0;i<nums.length;i++){
+            a=a^nums[i];
         }
-        else{
-            set.remove(nums[i]);
-        }
-        i++;
-    }
-    for(int val:set){
-        ans=val;
-    }
-    return ans;
+        return a;
     }
 }
