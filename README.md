@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1019-squares-of-a-sorted-array) |
 | [1044-find-common-characters](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1044-find-common-characters) |
+| [1046-max-consecutive-ones-iii](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1046-max-consecutive-ones-iii) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1168-duplicate-zeros](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1168-duplicate-zeros) |
 | [1217-relative-sort-array](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1217-relative-sort-array) |
@@ -346,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0745-find-smallest-letter-greater-than-target](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0907-koko-eating-bananas) |
+| [1046-max-consecutive-ones-iii](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1046-max-consecutive-ones-iii) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -758,6 +760,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0718-maximum-length-of-repeated-subarray](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0940-fruit-into-baskets](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0966-binary-subarrays-with-sum) |
+| [1046-max-consecutive-ones-iii](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1046-max-consecutive-ones-iii) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1813-maximum-erasure-value](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1813-maximum-erasure-value) |
@@ -768,6 +771,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0560-subarray-sum-equals-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0966-binary-subarrays-with-sum) |
+| [1046-max-consecutive-ones-iii](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2714-left-and-right-sum-differences](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2714-left-and-right-sum-differences) |
 | [3639-zero-array-transformation-i](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/3639-zero-array-transformation-i) |
