@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-unique-number-of-occurrences](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1319-unique-number-of-occurrences) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1370-count-number-of-nice-subarrays](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1370-count-number-of-nice-subarrays) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1217-relative-sort-array](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1217-relative-sort-array) |
 | [1256-rank-transform-of-an-array](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1256-rank-transform-of-an-array) |
 | [1319-unique-number-of-occurrences](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1319-unique-number-of-occurrences) |
+| [1370-count-number-of-nice-subarrays](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1370-count-number-of-nice-subarrays) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1500-count-largest-group](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1500-count-largest-group) |
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0415-add-strings) |
 | [0628-maximum-product-of-three-numbers](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0628-maximum-product-of-three-numbers) |
 | [1013-fibonacci-number](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1013-fibonacci-number) |
+| [1370-count-number-of-nice-subarrays](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1370-count-number-of-nice-subarrays) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1500-count-largest-group](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1500-count-largest-group) |
 | [1635-number-of-good-pairs](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1635-number-of-good-pairs) |
@@ -761,6 +764,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1046-max-consecutive-ones-iii) |
+| [1370-count-number-of-nice-subarrays](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1813-maximum-erasure-value](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1813-maximum-erasure-value) |
@@ -772,6 +776,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0560-subarray-sum-equals-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1046-max-consecutive-ones-iii) |
+| [1370-count-number-of-nice-subarrays](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2714-left-and-right-sum-differences](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2714-left-and-right-sum-differences) |
 | [3639-zero-array-transformation-i](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/3639-zero-array-transformation-i) |
