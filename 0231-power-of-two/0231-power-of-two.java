@@ -3,10 +3,7 @@ class Solution {
         if(n<=0){
             return false;
         }
-        //n=4=100
-        //n=3=011
-        //yancha and 000 yeto tr return true
-        if((n&(n-1))==0){
+        if((n & (n-1))==0){//if n is power of 2 then n&n-1 must be 0
             return true;
         }
         return false;
