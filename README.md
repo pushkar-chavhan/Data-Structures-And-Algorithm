@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2341-count-prefixes-of-a-given-string](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2529-range-product-queries-of-powers](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2529-range-product-queries-of-powers) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -379,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2427-first-letter-to-appear-twice](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2427-first-letter-to-appear-twice) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2529-range-product-queries-of-powers](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2529-range-product-queries-of-powers) |
 ## Sorting
 |  |
 | ------- |
@@ -778,6 +780,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [2529-range-product-queries-of-powers](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2529-range-product-queries-of-powers) |
 | [2714-left-and-right-sum-differences](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2714-left-and-right-sum-differences) |
 | [3639-zero-array-transformation-i](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/3639-zero-array-transformation-i) |
 ## Rolling Hash
