@@ -585,6 +585,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0967-minimum-falling-path-sum](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0967-minimum-falling-path-sum) |
 | [1013-fibonacci-number](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1013-fibonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1250-longest-common-subsequence) |
+| [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
