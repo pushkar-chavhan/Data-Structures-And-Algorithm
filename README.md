@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1580-shuffle-the-array](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1580-shuffle-the-array) |
+| [1628-count-submatrices-with-all-ones](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1628-count-submatrices-with-all-ones) |
 | [1635-number-of-good-pairs](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1635-number-of-good-pairs) |
 | [1646-kth-missing-positive-number](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1646-kth-missing-positive-number) |
 | [1656-count-good-triplets](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1656-count-good-triplets) |
@@ -589,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1013-fibonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1250-longest-common-subsequence) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1628-count-submatrices-with-all-ones](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1628-count-submatrices-with-all-ones) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
@@ -656,6 +658,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0967-minimum-falling-path-sum](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0967-minimum-falling-path-sum) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1628-count-submatrices-with-all-ones](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1628-count-submatrices-with-all-ones) |
 ## Stack
 |  |
 | ------- |
@@ -674,6 +677,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0943-sum-of-subarray-minimums](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0943-sum-of-subarray-minimums) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1078-remove-outermost-parentheses) |
+| [1628-count-submatrices-with-all-ones](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1628-count-submatrices-with-all-ones) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2128-reverse-prefix-of-word](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2128-reverse-prefix-of-word) |
@@ -747,6 +751,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0503-next-greater-element-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0943-sum-of-subarray-minimums) |
+| [1628-count-submatrices-with-all-ones](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1628-count-submatrices-with-all-ones) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2227-sum-of-subarray-ranges](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2227-sum-of-subarray-ranges) |
 ## Trie
