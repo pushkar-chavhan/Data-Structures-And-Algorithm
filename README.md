@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2876-number-of-employees-who-met-the-target](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/3194-find-words-containing-character) |
+| [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3321-type-of-triangle](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/3321-type-of-triangle) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3430-count-days-without-meetings](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/3430-count-days-without-meetings) |
