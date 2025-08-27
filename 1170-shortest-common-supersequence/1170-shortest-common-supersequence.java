@@ -26,7 +26,7 @@ class Solution {
         String ans="";
         while(i>0 && j>0){
             if(str1.charAt(i-1)==str2.charAt(j-1)){
-                ans+=str1.charAt(i-1);
+                ans+=str1.charAt(i-1);//beacause we add common characters once
                 i--;
                 j--;
             }
