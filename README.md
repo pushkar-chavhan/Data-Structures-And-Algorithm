@@ -478,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1044-find-common-characters](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1044-find-common-characters) |
 | [1078-remove-outermost-parentheses](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1078-remove-outermost-parentheses) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1112-find-words-that-can-be-formed-by-characters) |
+| [1170-shortest-common-supersequence](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1170-shortest-common-supersequence) |
 | [1205-defanging-an-ip-address](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1205-defanging-an-ip-address) |
 | [1250-longest-common-subsequence](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1250-longest-common-subsequence) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -594,6 +595,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0943-sum-of-subarray-minimums](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0943-sum-of-subarray-minimums) |
 | [0967-minimum-falling-path-sum](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0967-minimum-falling-path-sum) |
 | [1013-fibonacci-number](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1013-fibonacci-number) |
+| [1170-shortest-common-supersequence](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1250-longest-common-subsequence) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
