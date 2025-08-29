@@ -686,6 +686,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0143-reorder-list) |
+| [0144-binary-tree-preorder-traversal](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0144-binary-tree-preorder-traversal) |
 | [0155-min-stack](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0232-implement-queue-using-stacks) |
@@ -830,6 +831,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0144-binary-tree-preorder-traversal) |
 | [0386-lexicographical-numbers](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0386-lexicographical-numbers) |
 | [0733-flood-fill](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0733-flood-fill) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -856,6 +858,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0144-binary-tree-preorder-traversal) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -864,6 +867,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0144-binary-tree-preorder-traversal) |
 ## Enumeration
 |  |
 | ------- |
