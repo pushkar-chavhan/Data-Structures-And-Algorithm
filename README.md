@@ -836,6 +836,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0144-binary-tree-preorder-traversal) |
@@ -847,6 +848,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0322-coin-change](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0322-coin-change) |
 | [0733-flood-fill](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0733-flood-fill) |
@@ -868,6 +870,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0110-balanced-binary-tree) |
@@ -882,6 +885,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0110-balanced-binary-tree) |
