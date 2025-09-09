@@ -226,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1168-duplicate-zeros](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1168-duplicate-zeros) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2128-reverse-prefix-of-word](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2128-reverse-prefix-of-word) |
@@ -512,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1797-goal-parser-interpretation](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1797-goal-parser-interpretation) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1823-determine-if-string-halves-are-alike) |
+| [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1904-second-largest-digit-in-a-string](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1904-second-largest-digit-in-a-string) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
