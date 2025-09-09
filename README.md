@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0647-palindromic-substrings](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0680-valid-palindrome-ii) |
+| [0768-partition-labels](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0768-partition-labels) |
 | [0841-shortest-distance-to-a-character](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0841-shortest-distance-to-a-character) |
 | [0908-middle-of-the-linked-list](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0908-middle-of-the-linked-list) |
 | [0953-reverse-only-letters](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0953-reverse-only-letters) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0645-set-mismatch) |
 | [0697-degree-of-an-array](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0697-degree-of-an-array) |
+| [0768-partition-labels](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0768-partition-labels) |
 | [0837-most-common-word](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0837-most-common-word) |
 | [0940-fruit-into-baskets](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0940-fruit-into-baskets) |
 | [0965-unique-email-addresses](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0965-unique-email-addresses) |
@@ -487,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0680-valid-palindrome-ii) |
 | [0742-to-lower-case](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0742-to-lower-case) |
+| [0768-partition-labels](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0812-rotate-string) |
 | [0837-most-common-word](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0837-most-common-word) |
 | [0841-shortest-distance-to-a-character](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0841-shortest-distance-to-a-character) |
@@ -658,6 +661,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0621-task-scheduler) |
 | [0680-valid-palindrome-ii](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0680-valid-palindrome-ii) |
+| [0768-partition-labels](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0768-partition-labels) |
 | [0890-lemonade-change](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0982-minimum-increment-to-make-array-unique) |
