@@ -1,18 +1,16 @@
 class Solution {
     public int maxDepth(String s) {
-        int result=0;
-        int openBracket=0;
-        char[] ch=s.toCharArray();
-        for(int i=0;i<ch.length;i++){
-            if(ch[i]=='('){
-                openBracket++;
-                result=Math.max(result,openBracket);
+        int opencount=0;
+        int ans=0;
+        for(char ch:s.toCharArray()){
+            if(ch=='('){
+                opencount++;
             }
-            else if(ch[i]==')'){
-                openBracket--;
+            else if(ch==')'){
+                opencount--;
             }
-
+            ans=Math.max(ans,opencount);
         }
-        return result;
+        return ans;
     }
 }
