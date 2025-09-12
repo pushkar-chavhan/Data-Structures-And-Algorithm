@@ -1,20 +1,23 @@
 class Solution {
     public void nextPermutation(int[] nums) {
         int n=nums.length;
-        int i=n-2;
-       // Find the first decreasing element
-        while(i>=0&&nums[i]>=nums[i+1]){
+        int i=n-1;
+        // Step 1: Find the first decreasing element from the right
+        while(i>0&& nums[i]<=nums[i-1]){
             i--;
         }
-         // Step 2: If we found such element, find the number just larger and swap them
-        if(i>=0){
-            int j=n-1;
-            while(nums[i]>=nums[j]){
-                j--;
+        if(i!=0){
+            int idx=i;
+              // Step 2: Find the element just larger than nums[i-1]
+            for(int j=n-1;j>=i;j--){
+                if(nums[j]>nums[i-1]){
+                    idx=j;
+                    break;
+                }
             }
-            swap(nums,i,j);
+            swap(nums,i-1,idx);
         }
-        reverse(nums,i+1,n-1);
+        reverse(nums,i,n-1);
     }
     public static void swap(int nums[],int i,int j){
         int temp=nums[i];
