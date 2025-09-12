@@ -353,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2481-strictly-palindromic-number](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2481-strictly-palindromic-number) |
 | [2998-count-symmetric-integers](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2998-count-symmetric-integers) |
 | [3321-type-of-triangle](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/3321-type-of-triangle) |
+| [3462-vowels-game-in-a-string](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/3462-vowels-game-in-a-string) |
 | [3830-find-closest-person](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/3830-find-closest-person) |
 ## Binary Search
 |  |
@@ -554,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3194-find-words-containing-character](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/3379-score-of-a-string) |
 | [3396-valid-word](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/3396-valid-word) |
+| [3462-vowels-game-in-a-string](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/3462-vowels-game-in-a-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -995,8 +997,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2481-strictly-palindromic-number](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2481-strictly-palindromic-number) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [3462-vowels-game-in-a-string](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/3462-vowels-game-in-a-string) |
 ## Data Stream
 |  |
 | ------- |
 | [0937-online-stock-span](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0937-online-stock-span) |
+## Game Theory
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/3462-vowels-game-in-a-string) |
 <!---LeetCode Topics End-->
