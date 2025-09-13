@@ -23,7 +23,8 @@ class Solution {
             even=even.next;
         
         }
-        odd.next=evenHead;
+        odd.next=evenHead;//for jointing odd list to even
+        
         return head;
     }
 }
