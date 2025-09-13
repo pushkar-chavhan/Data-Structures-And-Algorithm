@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0645-set-mismatch) |
+| [0658-find-k-closest-elements](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0658-find-k-closest-elements) |
 | [0682-baseball-game](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0682-baseball-game) |
 | [0697-degree-of-an-array](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0697-degree-of-an-array) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0718-maximum-length-of-repeated-subarray) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0647-palindromic-substrings](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0647-palindromic-substrings) |
+| [0658-find-k-closest-elements](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0680-valid-palindrome-ii) |
 | [0768-partition-labels](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0768-partition-labels) |
 | [0841-shortest-distance-to-a-character](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0841-shortest-distance-to-a-character) |
@@ -373,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0540-single-element-in-a-sorted-array) |
+| [0658-find-k-closest-elements](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0658-find-k-closest-elements) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0792-binary-search) |
@@ -433,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0645-set-mismatch) |
+| [0658-find-k-closest-elements](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0658-find-k-closest-elements) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1019-squares-of-a-sorted-array](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1019-squares-of-a-sorted-array) |
@@ -832,6 +836,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0424-longest-repeating-character-replacement) |
 | [0594-longest-harmonious-subsequence](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0643-maximum-average-subarray-i) |
+| [0658-find-k-closest-elements](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0658-find-k-closest-elements) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0940-fruit-into-baskets](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0966-binary-subarrays-with-sum) |
@@ -962,6 +967,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0621-task-scheduler) |
+| [0658-find-k-closest-elements](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0658-find-k-closest-elements) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2094-remove-stones-to-minimize-the-total) |
 ## Database
 |  |
