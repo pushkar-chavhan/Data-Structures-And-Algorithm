@@ -19,21 +19,30 @@ public class Solution {
         return count;
     }
     public ListNode getIntersectionNode(ListNode headA, ListNode headB) {
-        int lenA=getListLength(headA);
-        int lenB=getListLength(headB);
-        while(lenA>lenB &&headA!=null){
-            lenA--;
-            headA=headA.next;
-        }
-        while(lenB>lenA &&headB!=null){
-            lenB--;
-            headB=headB.next;
-        }
-        while(headA!=headB){
-            if(headA==null ||headB==null) return null;
-            headA=headA.next;
-            headB=headB.next;
-        }
-        return headA;
+        // int lenA=getListLength(headA);
+        // int lenB=getListLength(headB);
+        // while(lenA>lenB &&headA!=null){
+        //     lenA--;
+        //     headA=headA.next;
+        // }
+        // while(lenB>lenA &&headB!=null){
+        //     lenB--;
+        //     headB=headB.next;
+        // }
+        // while(headA!=headB){
+        //     if(headA==null ||headB==null) return null;
+        //     headA=headA.next;
+        //     headB=headB.next;
+        // }
+        // return headA;
+        ListNode d1 = headA;
+        ListNode d2 = headB;
+    
+    while(d1 != d2) {
+        d1 = d1 == null? headB:d1.next;
+        d2 = d2 == null? headA:d2.next;
+    }
+    
+    return d1;
     }
 }
