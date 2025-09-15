@@ -988,6 +988,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0584-find-customer-referee](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0595-big-countries) |
 | [1179-game-play-analysis-i](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1179-game-play-analysis-i) |
+| [1258-article-views-i](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1258-article-views-i) |
 | [1908-recyclable-and-low-fat-products](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1908-recyclable-and-low-fat-products) |
 | [2110-employees-with-missing-information](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2110-employees-with-missing-information) |
 ## Bucket Sort
