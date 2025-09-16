@@ -496,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0583-delete-operation-for-two-strings) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0647-palindromic-substrings](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0647-palindromic-substrings) |
+| [0678-valid-parenthesis-string](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0680-valid-palindrome-ii) |
 | [0742-to-lower-case](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0742-to-lower-case) |
 | [0768-partition-labels](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0768-partition-labels) |
@@ -631,6 +632,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0518-coin-change-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0647-palindromic-substrings) |
+| [0678-valid-parenthesis-string](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0678-valid-parenthesis-string) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0943-sum-of-subarray-minimums](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0943-sum-of-subarray-minimums) |
 | [0967-minimum-falling-path-sum](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0967-minimum-falling-path-sum) |
@@ -673,6 +675,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0621-task-scheduler) |
+| [0678-valid-parenthesis-string](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0680-valid-palindrome-ii) |
 | [0768-partition-labels](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0768-partition-labels) |
 | [0890-lemonade-change](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0890-lemonade-change) |
@@ -731,6 +734,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0503-next-greater-element-ii) |
+| [0678-valid-parenthesis-string](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0735-asteroid-collision) |
 | [0937-online-stock-span](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0937-online-stock-span) |
