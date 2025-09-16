@@ -313,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2308-divide-array-into-equal-pairs](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2308-divide-array-into-equal-pairs) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2427-first-letter-to-appear-twice](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2427-first-letter-to-appear-twice) |
+| [2599-take-k-of-each-character-from-left-and-right](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
@@ -559,6 +560,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2401-count-asterisks](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2401-count-asterisks) |
 | [2427-first-letter-to-appear-twice](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2427-first-letter-to-appear-twice) |
+| [2599-take-k-of-each-character-from-left-and-right](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2887-sort-vowels-in-a-string](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2887-sort-vowels-in-a-string) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -856,6 +858,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1813-maximum-erasure-value](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1813-maximum-erasure-value) |
 | [2211-k-radius-subarray-averages](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2211-k-radius-subarray-averages) |
+| [2599-take-k-of-each-character-from-left-and-right](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 ## Prefix Sum
 |  |
 | ------- |
