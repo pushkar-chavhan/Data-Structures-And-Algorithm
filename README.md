@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3797-design-spreadsheet](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/3797-design-spreadsheet) |
 ## Two Pointers
 |  |
 | ------- |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3797-design-spreadsheet](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/3797-design-spreadsheet) |
 ## Math
 |  |
 | ------- |
@@ -570,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3379-score-of-a-string](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/3379-score-of-a-string) |
 | [3396-valid-word](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/3396-valid-word) |
 | [3462-vowels-game-in-a-string](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/3462-vowels-game-in-a-string) |
+| [3797-design-spreadsheet](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/3797-design-spreadsheet) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -723,6 +726,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1628-count-submatrices-with-all-ones](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1628-count-submatrices-with-all-ones) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3797-design-spreadsheet](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/3797-design-spreadsheet) |
 ## Stack
 |  |
 | ------- |
@@ -810,6 +814,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0232-implement-queue-using-stacks) |
 | [0937-online-stock-span](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0937-online-stock-span) |
+| [3797-design-spreadsheet](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/3797-design-spreadsheet) |
 ## Queue
 |  |
 | ------- |
