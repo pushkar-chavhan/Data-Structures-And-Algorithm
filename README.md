@@ -417,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2427-first-letter-to-appear-twice](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2427-first-letter-to-appear-twice) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2529-range-product-queries-of-powers](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2529-range-product-queries-of-powers) |
+| [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Sorting
 |  |
 | ------- |
@@ -571,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3194-find-words-containing-character](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/3379-score-of-a-string) |
 | [3396-valid-word](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/3396-valid-word) |
+| [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 | [3462-vowels-game-in-a-string](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/3462-vowels-game-in-a-string) |
 | [3797-design-spreadsheet](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/3797-design-spreadsheet) |
 ## Divide and Conquer
@@ -808,6 +810,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0131-palindrome-partitioning) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2107-find-unique-binary-string](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2107-find-unique-binary-string) |
+| [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Design
 |  |
 | ------- |
