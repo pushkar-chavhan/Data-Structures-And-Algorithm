@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1002-maximum-width-ramp](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1002-maximum-width-ramp) |
 | [1006-vowel-spellchecker](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1006-vowel-spellchecker) |
+| [1018-largest-perimeter-triangle](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1019-squares-of-a-sorted-array) |
 | [1044-find-common-characters](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1044-find-common-characters) |
 | [1046-max-consecutive-ones-iii](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1046-max-consecutive-ones-iii) |
@@ -357,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0415-add-strings) |
 | [0628-maximum-product-of-three-numbers](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0628-maximum-product-of-three-numbers) |
 | [1013-fibonacci-number](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1013-fibonacci-number) |
+| [1018-largest-perimeter-triangle](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1018-largest-perimeter-triangle) |
 | [1370-count-number-of-nice-subarrays](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1370-count-number-of-nice-subarrays) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -457,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0658-find-k-closest-elements) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0982-minimum-increment-to-make-array-unique) |
+| [1018-largest-perimeter-triangle](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1019-squares-of-a-sorted-array) |
 | [1217-relative-sort-array](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1217-relative-sort-array) |
 | [1253-sort-the-matrix-diagonally](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1253-sort-the-matrix-diagonally) |
@@ -706,6 +709,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0982-minimum-increment-to-make-array-unique) |
+| [1018-largest-perimeter-triangle](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1018-largest-perimeter-triangle) |
 | [1448-maximum-69-number](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1448-maximum-69-number) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2032-largest-odd-number-in-string](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2032-largest-odd-number-in-string) |
