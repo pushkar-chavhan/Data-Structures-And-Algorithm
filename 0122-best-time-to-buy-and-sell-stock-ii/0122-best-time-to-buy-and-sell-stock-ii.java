@@ -20,12 +20,15 @@ class Solution {
         t=new int[n+1];
         Arrays.fill(t,-1);
         return solve(nums,n-1);
-        // int maxProfit=0;
+      
+    }
+}
+
+//Brutal
+  // int maxProfit=0;
         // for(int i=1;i<nums.length;i++){
         //     if(nums[i]>nums[i-1]){
         //         maxProfit+=nums[i]-nums[i-1];
         //     }
         // }
         // return maxProfit;
-    }
-}
