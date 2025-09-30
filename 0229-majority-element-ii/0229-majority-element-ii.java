@@ -1,5 +1,5 @@
-class Solution {
-    public List<Integer> majorityElement(int[] nums) {
+// class Solution {
+//     public List<Integer> majorityElement(int[] nums) {
     //    int cnt1=0;
     //    int cnt2=0;
     //    int ele1=Integer.MIN_VALUE;
@@ -37,18 +37,37 @@ class Solution {
     
 
     //Brute
-        List<Integer>result=new ArrayList<>();
+//         List<Integer>result=new ArrayList<>();
+//         int n=nums.length;
+//         for(int i=0;i<n;i++){
+//             int count=0;
+//             for(int j=0;j<n;j++){
+//                 if(nums[j]==nums[i]){
+//                     count++;
+//                 }
+//             }
+//             if(count>n/3&&!result.contains(nums[i])){
+//                 result.add(nums[i]);
+//                 count=0;
+//             }
+//         }
+//         return result;
+//     }
+// }
+
+
+//using map
+class Solution {
+    public List<Integer> majorityElement(int[] nums) {
         int n=nums.length;
+        List<Integer>result=new ArrayList<>();
+        Map<Integer,Integer>mp=new HashMap<>();
         for(int i=0;i<n;i++){
-            int count=0;
-            for(int j=0;j<n;j++){
-                if(nums[j]==nums[i]){
-                    count++;
-                }
-            }
-            if(count>n/3&&!result.contains(nums[i])){
-                result.add(nums[i]);
-                count=0;
+            mp.put(nums[i],mp.getOrDefault(nums[i],0)+1);
+        }
+        for(Map.Entry<Integer,Integer>entry:mp.entrySet()){
+            if(entry.getValue()>n/3){
+                result.add(entry.getKey());
             }
         }
         return result;
