@@ -1,11 +1,13 @@
+import java.util.*;
+//very easy
 class Solution {
-    public int maxProfit(int[] prices) {
-        int profit=0;
-        for(int i=1;i<prices.length;i++){
-            if(prices[i]>prices[i-1]){
-                profit+=(prices[i]-prices[i-1]);
+    public int maxProfit(int[] nums) {
+        int maxProfit=0;
+        for(int i=1;i<nums.length;i++){
+            if(nums[i]>nums[i-1]){
+                maxProfit+=nums[i]-nums[i-1];
             }
         }
-        return profit;
+        return maxProfit;
     }
 }
