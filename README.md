@@ -1054,6 +1054,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1811-fix-names-in-a-table](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1811-fix-names-in-a-table) |
 | [1827-invalid-tweets](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1908-recyclable-and-low-fat-products) |
+| [1942-primary-department-for-each-employee](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1942-primary-department-for-each-employee) |
 | [2110-employees-with-missing-information](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2110-employees-with-missing-information) |
 ## Bucket Sort
 |  |
