@@ -1048,6 +1048,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-project-employees-i](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1161-project-employees-i) |
 | [1179-game-play-analysis-i](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1179-game-play-analysis-i) |
 | [1258-article-views-i](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1258-article-views-i) |
+| [1278-product-price-at-a-given-date](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1278-product-price-at-a-given-date) |
 | [1390-average-selling-price](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1390-average-selling-price) |
 | [1415-students-and-examinations](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1415-students-and-examinations) |
 | [1462-list-the-products-ordered-in-a-period](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1462-list-the-products-ordered-in-a-period) |
