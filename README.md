@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2529-range-product-queries-of-powers](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2529-range-product-queries-of-powers) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2714-left-and-right-sum-differences](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2714-left-and-right-sum-differences) |
@@ -334,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2427-first-letter-to-appear-twice](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2427-first-letter-to-appear-twice) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2599-take-k-of-each-character-from-left-and-right) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -382,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-largest-odd-number-in-string](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2050-count-good-numbers) |
 | [2481-strictly-palindromic-number](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2481-strictly-palindromic-number) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2998-count-symmetric-integers](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2998-count-symmetric-integers) |
 | [3321-type-of-triangle](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/3321-type-of-triangle) |
 | [3462-vowels-game-in-a-string](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/3462-vowels-game-in-a-string) |
@@ -737,6 +740,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-largest-odd-number-in-string](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2032-largest-odd-number-in-string) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## String Matching
