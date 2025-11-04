@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -346,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -935,6 +937,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1813-maximum-erasure-value](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1813-maximum-erasure-value) |
 | [2211-k-radius-subarray-averages](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2211-k-radius-subarray-averages) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2599-take-k-of-each-character-from-left-and-right) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -1059,6 +1062,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0658-find-k-closest-elements) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2094-remove-stones-to-minimize-the-total) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Database
 |  |
 | ------- |
