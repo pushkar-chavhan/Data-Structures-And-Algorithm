@@ -624,6 +624,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3396-valid-word](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/3396-valid-word) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 | [3462-vowels-game-in-a-string](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/3462-vowels-game-in-a-string) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3797-design-spreadsheet](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/3797-design-spreadsheet) |
 ## Divide and Conquer
 |  |
@@ -665,6 +666,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -762,6 +764,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## String Matching
 |  |
