@@ -388,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-maximum-69-number](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1448-maximum-69-number) |
 | [1500-count-largest-group](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1500-count-largest-group) |
 | [1635-number-of-good-pairs](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1635-number-of-good-pairs) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1642-water-bottles](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1642-water-bottles) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -579,6 +580,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1508-longest-happy-prefix](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1508-longest-happy-prefix) |
 | [1524-string-matching-in-an-array](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1524-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1660-thousand-separator](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1660-thousand-separator) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1714-rearrange-spaces-between-words](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1714-rearrange-spaces-between-words) |
