@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0658-find-k-closest-elements) |
 | [0682-baseball-game](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0682-baseball-game) |
 | [0697-degree-of-an-array](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0697-degree-of-an-array) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0733-flood-fill](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/0735-asteroid-collision) |
