@@ -628,6 +628,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2190-count-common-words-with-one-occurrence) |
+| [2211-count-collisions-on-a-road](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2211-count-collisions-on-a-road) |
 | [2235-capitalize-the-title](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2235-capitalize-the-title) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2260-divide-a-string-into-groups-of-size-k) |
@@ -754,6 +755,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2058-concatenation-of-array) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2211-count-collisions-on-a-road](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2211-count-collisions-on-a-road) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -852,6 +854,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2128-reverse-prefix-of-word](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2128-reverse-prefix-of-word) |
+| [2211-count-collisions-on-a-road](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2211-count-collisions-on-a-road) |
 | [2227-sum-of-subarray-ranges](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2227-sum-of-subarray-ranges) |
 ## Linked List
 |  |
