@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3430-count-days-without-meetings](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/3430-count-days-without-meetings) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
@@ -413,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2998-count-symmetric-integers](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2998-count-symmetric-integers) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3321-type-of-triangle](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/3321-type-of-triangle) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3462-vowels-game-in-a-string](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/3462-vowels-game-in-a-string) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/3676-smallest-number-with-all-set-bits) |
@@ -983,6 +985,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2529-range-product-queries-of-powers](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2529-range-product-queries-of-powers) |
 | [2714-left-and-right-sum-differences](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/2714-left-and-right-sum-differences) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3639-zero-array-transformation-i](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/3639-zero-array-transformation-i) |
 ## Rolling Hash
