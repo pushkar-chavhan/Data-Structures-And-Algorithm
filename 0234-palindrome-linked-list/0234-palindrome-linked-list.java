@@ -10,33 +10,27 @@
  */
 class Solution {
     public boolean isPalindrome(ListNode head) {
-        if(head==null || head.next==null){
-            return true;
-        }
-        //find the middle number off list
-        ListNode slow=head,fast=head;
+        ListNode slow=head;
+        ListNode fast=head;
         while(fast!=null && fast.next!=null){
             slow=slow.next;
             fast=fast.next.next;
         }
-        //reverse list from mid(slow)to right side
         ListNode prev=null;
         while(slow!=null){
-           ListNode temp=slow.next;
+            ListNode temp=slow.next;
             slow.next=prev;
             prev=slow;
             slow=temp;
         }
-        //compare last and first elements of list
-
-        ListNode first_half=head;
-        ListNode second_half=prev;
-        while(second_half!=null){
-            if(first_half.val!=second_half.val){
+        ListNode first=head;
+        ListNode second=prev;
+        while(second!=null){
+            if(first.val!=second.val){
                 return false;
             }
-            first_half=first_half.next;
-            second_half=second_half.next;
+            first=first.next;
+            second=second.next;
         }
         return true;
     }
