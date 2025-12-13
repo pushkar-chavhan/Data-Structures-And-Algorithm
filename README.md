@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3606-coupon-code-validator](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/3606-coupon-code-validator) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/3616-make-array-elements-equal-to-zero) |
@@ -360,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3606-coupon-code-validator](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/3606-coupon-code-validator) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
@@ -528,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3321-type-of-triangle](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/3321-type-of-triangle) |
 | [3430-count-days-without-meetings](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/3430-count-days-without-meetings) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3606-coupon-code-validator](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/3606-coupon-code-validator) |
 ## String
 |  |
 | ------- |
@@ -652,6 +655,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 | [3462-vowels-game-in-a-string](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/3462-vowels-game-in-a-string) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
+| [3606-coupon-code-validator](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/3606-coupon-code-validator) |
 | [3797-design-spreadsheet](https://github.com/pushkar-chavhan/Data-Structures-And-Algorithm/tree/master/3797-design-spreadsheet) |
 ## Divide and Conquer
 |  |
